@@ -1,0 +1,29 @@
+/* ==UserStyle==
+@name           Seiga Illusts into 5 Columns
+@namespace      github.com/neofuji
+@version        1.0.0
+@license        CC-BY-SA-4.0
+@description    Arranges the thumbnails of NicoNico Seiga search/user page in 5 columns
+@author         Toru Higuruma (https://github.com/neofuji)
+==/UserStyle== */
+
+@-moz-document
+url-prefix("http://seiga.nicovideo.jp/tag/"),
+url-prefix("https://seiga.nicovideo.jp/tag/"),
+url-prefix("http://seiga.nicovideo.jp/user/illust/"),
+url-prefix("https://seiga.nicovideo.jp/user/illust/") {
+    @media screen and (min-width: 1440px) {
+        .list_head_bar .inner,
+        .list_head_bar_min .inner,
+        .userlist_head_bar .inner,
+        #content.list {
+            width: 1230px;
+        }
+        #content.list #main {
+            width: 1026px;
+        }
+        #content.list #pagetop {
+            margin-right: -733px;
+        }
+    }
+}
