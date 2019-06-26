@@ -1,13 +1,15 @@
 /* ==UserStyle==
 @name           Seiga Illusts into 5 Columns
 @namespace      github.com/neofuji
-@version        1.0.0
+@version        1.1.0
 @license        CC-BY-SA-4.0
-@description    Arranges the thumbnails of NicoNico Seiga search/user page in 5 columns
+@description    Arranges the list of tag's/user's illusts on NicoNico Seiga in 5 columns
 @author         Toru Higuruma (https://github.com/neofuji)
 ==/UserStyle== */
 
 @-moz-document
+url-prefix("http://seiga.nicovideo.jp/illust/list"),
+url-prefix("https://seiga.nicovideo.jp/illust/list"),
 url-prefix("http://seiga.nicovideo.jp/tag/"),
 url-prefix("https://seiga.nicovideo.jp/tag/"),
 url-prefix("http://seiga.nicovideo.jp/user/illust/"),

@@ -2,9 +2,9 @@
 Userstyles to improve UX of NicoNico
 
 ### Seiga Illusts into 5 Columns
-Arranges the thumbnails of NicoNico Seiga search/user page in 5 columns.
+Arranges the list of tag's/user's illusts on NicoNico Seiga in 5 columns.
 
-ニコニコ静画の検索ページとユーザーページのサムネイルを 5 列表示に変更します。
+ニコニコ静画においてタグ・ユーザーのイラスト一覧を 5 列に並べます。
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/neofuji/niconico-usercss/master/seiga-illusts-5-columns.user.css)
-v1.0.0 (2019-06-22)
+v1.1.0 (2019-06-26)
