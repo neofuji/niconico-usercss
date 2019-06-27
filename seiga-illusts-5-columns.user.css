@@ -1,10 +1,13 @@
 /* ==UserStyle==
 @name           Seiga Illusts into 5 Columns
 @namespace      github.com/neofuji
-@version        1.1.0
+@version        1.1.1
 @license        CC-BY-SA-4.0
 @description    Arranges the list of tag's/user's illusts on NicoNico Seiga in 5 columns
 @author         Toru Higuruma (https://github.com/neofuji)
+@homepageURL    https://github.com/neofuji/niconico-usercss
+@supportURL     https://github.com/neofuji/niconico-usercss/issues
+@updateURL      https://raw.githubusercontent.com/neofuji/niconico-usercss/master/seiga-illusts-5-columns.user.css
 ==/UserStyle== */
 
 @-moz-document
