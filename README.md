@@ -2,6 +2,7 @@
 Userstyles to improve UX of NicoNico
 
 ### Seiga Illusts into 5 Columns
+![Preview](seiga-illusts-5-columns.png)
 - Arranges the list of tag's/user's illusts on NicoNico Seiga in 5 columns.
 - ニコニコ静画においてタグ・ユーザーのイラスト一覧を 5 列に並べます。
 
