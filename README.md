@@ -1,6 +1,9 @@
 # niconico-usercss
 Userstyles to improve UX of NicoNico
 
+- [Seiga Illusts into 5 Columns](#seiga-illusts-into-5-columns)
+- [Seiga Illusts Dark](#seiga-illusts-dark)
+
 ### Seiga Illusts into 5 Columns
 ![Preview](seiga-illusts-5-columns.png)
 - Arranges the list of tag's/user's illusts on NicoNico Seiga in 5 columns.
