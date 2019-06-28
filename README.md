@@ -10,6 +10,7 @@ Userstyles to improve UX of NicoNico
 v1.1.1 (2019-06-27)
 
 ### Seiga Illusts Dark
+![Preview](seiga-illusts-dark.png)
 - Darker NicoNico Seiga illust pages.
 - ニコニコ静画のイラストページを暗めに。
 
