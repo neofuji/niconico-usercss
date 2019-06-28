@@ -7,3 +7,10 @@ Userstyles to improve UX of NicoNico
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/neofuji/niconico-usercss/master/seiga-illusts-5-columns.user.css)
 v1.1.1 (2019-06-27)
+
+### Seiga Illusts Dark
+- Darker NicoNico Seiga illust pages.
+- ニコニコ静画のイラストページを暗めに。
+
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/neofuji/niconico-usercss/master/seiga-illusts-dark.user.css)
+v1.0.0 (2019-06-28)

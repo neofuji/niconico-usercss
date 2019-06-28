@@ -1,0 +1,71 @@
+/* ==UserStyle==
+@name           Seiga Illusts Dark
+@namespace      github.com/neofuji
+@version        1.0.0
+@license        CC-BY-SA-4.0
+@description    Darker NicoNico Seiga illust pages
+@author         Toru Higuruma (https://github.com/neofuji)
+@homepageURL    https://github.com/neofuji/niconico-usercss
+@supportURL     https://github.com/neofuji/niconico-usercss/issues
+@updateURL      https://raw.githubusercontent.com/neofuji/niconico-usercss/master/seiga-illusts-dark.user.css
+==/UserStyle== */
+
+@-moz-document
+url-prefix("http://seiga.nicovideo.jp/illust/list"),
+url-prefix("https://seiga.nicovideo.jp/illust/list"),
+url-prefix("http://seiga.nicovideo.jp/seiga/"),
+url-prefix("https://seiga.nicovideo.jp/seiga/"),
+url-prefix("http://seiga.nicovideo.jp/tag/"),
+url-prefix("https://seiga.nicovideo.jp/tag/"),
+url-prefix("http://seiga.nicovideo.jp/user/illust/"),
+url-prefix("https://seiga.nicovideo.jp/user/illust/") {
+    body:not(.seiga) {
+        background: #404040;
+    }
+    body:not(.seiga) #wrapper > #main {
+        color: #CCCCCC;
+    }
+    body:not(.seiga) #wrapper > #main a,
+    .sort_form:not(:hover) .dummy {
+        color: #FFFFFF;
+    }
+    .report a,
+    #content.list #side h2,
+    #content.list .controll .sort,
+    #content.list .controll .page_count {
+        color: #DDDDDD;
+    }
+    #content.list #side .refine_list li:nth-child(n) a {
+        border-color: #666666;
+        color: #FFFFFF;
+    }
+    #content.list #side .refine_list li a.selected {
+        background: #EEEEEE;
+        color: #000000;
+    }
+    #content.list #side .refine_list li a.selected::after {
+        border-left-color: #EEEEEE;
+    }
+    .pager li:not(.next):not(.prev) a:not(:hover) {
+        color: #FFFFFF;
+        text-shadow: 1px 1px 0 #000000;
+    }
+    .pager li.current_index {
+        background: #EEEEEE;
+        color: #000000;
+        text-shadow: 1px 1px 0 #EFEFEF;
+    }
+    .pager li.disabled {
+        border-color: #666666;
+        color: #888888;
+    }
+    #ichiba_placeholder {
+        background: #EEEEEE;
+        border-radius: 5px;
+    }
+    .level_ad,
+    .related_info .sub_info_side .side_ad {
+        background: #666666;
+        border-color: #888888;
+    }
+}
