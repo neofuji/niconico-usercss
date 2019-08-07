@@ -1,0 +1,22 @@
+/* ==UserStyle==
+@name           Seiga Illusts Comment Collapsed
+@namespace      github.com/neofuji
+@version        1.0.0
+@license        CC-BY-SA-4.0
+@description    Collapses the comment list on NicoNico Seiga illust pages
+@author         Toru Higuruma (https://github.com/neofuji)
+@homepageURL    https://github.com/neofuji/niconico-usercss
+@supportURL     https://github.com/neofuji/niconico-usercss/issues
+@updateURL      https://raw.githubusercontent.com/neofuji/niconico-usercss/master/seiga-illusts-comment-collapsed.user.css
+==/UserStyle== */
+
+@-moz-document
+url-prefix("http://seiga.nicovideo.jp/seiga/"),
+url-prefix("https://seiga.nicovideo.jp/seiga/") {
+    #ko_comment .count_comment,
+    #ko_comment .comment_empty,
+    #ko_comment .comment_list,
+    #ko_comment .res {
+        display: none;
+    }
+}

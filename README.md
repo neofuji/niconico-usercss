@@ -3,6 +3,7 @@ Userstyles to improve UX of NicoNico
 
 - [Seiga Illusts into 5 Columns](#seiga-illusts-into-5-columns)
 - [Seiga Illusts Dark](#seiga-illusts-dark)
+- [Seiga Illusts Comment Collapsed](#seiga-illusts-comment-collapsed)
 
 ### Seiga Illusts into 5 Columns
 ![Preview](seiga-illusts-5-columns.png)
@@ -19,3 +20,10 @@ v1.1.1 (2019-06-27)
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/neofuji/niconico-usercss/master/seiga-illusts-dark.user.css)
 v1.0.0 (2019-06-28)
+
+### Seiga Illusts Comment Collapsed
+- Collapses the comment list on NicoNico Seiga illust pages.
+- ニコニコ静画のイラストページでコメントリストを折りたたみます。
+
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/neofuji/niconico-usercss/master/seiga-illusts-comment-collapsed.user.css)
+v1.0.0 (2019-08-07)
