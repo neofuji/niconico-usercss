@@ -1,0 +1,17 @@
+/* ==UserStyle==
+@name           Nicovideo Unsqueezed
+@namespace      github.com/neofuji
+@version        1.0.0
+@license        CC-BY-SA-4.0
+@description    Stretches the aspect ratio to 16:9 on NicoNico Video.
+@author         Toru Higuruma (https://github.com/neofuji)
+@homepageURL    https://github.com/neofuji/niconico-usercss
+@supportURL     https://github.com/neofuji/niconico-usercss/issues
+@updateURL      https://raw.githubusercontent.com/neofuji/niconico-usercss/master/nicovideo-unsqueezed.user.css
+==/UserStyle== */
+
+@-moz-document url-prefix("https://www.nicovideo.jp/watch/") {
+    #MainVideoPlayer video {
+        object-fit: fill;
+    }
+}
