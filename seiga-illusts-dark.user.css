@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Seiga Illusts Dark
 @namespace      github.com/neofuji
-@version        1.0.0
+@version        1.1.0
 @license        CC-BY-SA-4.0
 @description    Darker NicoNico Seiga illust pages
 @author         Toru Higuruma (https://github.com/neofuji)
@@ -58,10 +58,6 @@ url-prefix("https://seiga.nicovideo.jp/user/illust/") {
     .pager li.disabled {
         border-color: #666666;
         color: #888888;
-    }
-    #ichiba_placeholder {
-        background: #EEEEEE;
-        border-radius: 5px;
     }
     .level_ad,
     .related_info .sub_info_side .side_ad {

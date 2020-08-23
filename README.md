@@ -20,7 +20,7 @@ v1.1.1 (2019-06-27)
 - ニコニコ静画のイラストページを暗めに。
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/neofuji/niconico-usercss/master/seiga-illusts-dark.user.css)
-v1.0.0 (2019-06-28)
+v1.1.0 (2020-08-23)
 
 ### Seiga Illusts Comment Collapsed
 - Collapses the comment list on NicoNico Seiga illust pages.
